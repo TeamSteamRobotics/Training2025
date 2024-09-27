@@ -6,7 +6,7 @@ public class Main {
     int number_two = 6;
 
     // Define output variable
-    int total = 0; 
+    int total = number_one * number_two; 
     
   
   }
